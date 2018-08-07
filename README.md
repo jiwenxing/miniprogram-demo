@@ -2,7 +2,7 @@
 
 该 Demo 主要用于熟悉原生小程序的原生开发模式，安装微信开发者工具导入代码目录即可预览小程序，效果如下图所示
 
-![](http://ochyazsr6.bkt.clouddn.com/dd50616656113a9b3ca324af2fb4fb36.jpg)
+![](http://ochyazsr6.bkt.clouddn.com/dd50616656113a9b3ca324af2fb4fb36.jpg?imageView2/2/w/1000/h/700)
 
 
 ## 代码结构
