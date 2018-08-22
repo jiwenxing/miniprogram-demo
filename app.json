@@ -11,17 +11,15 @@
     "enablePullDownRefresh": false
   },
   "tabBar": {
-    "list": [
-      {
-        "pagePath": "pages/index/index",
-        "text": "index",
-        "iconPath": "images/home.png"
-      },
-      {
-        "pagePath": "pages/logs/logs",
-        "text": "logs",
-        "iconPath": "images/cart.png"
-      }
-    ]
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "home",
+      "iconPath": "images/home.png"
+    },
+    {
+      "pagePath": "pages/logs/logs",
+      "text": "text",
+      "iconPath": "images/cart.png"
+    }]
   }
 }
